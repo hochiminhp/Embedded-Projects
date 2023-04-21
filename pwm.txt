@@ -1,0 +1,3 @@
+pwm started
+prescaler=10000
+counter=1000
