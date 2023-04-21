@@ -1,3 +1,4 @@
 pwm started
 prescaler=10000
-counter=1000
+counter=500
+pulse=250
