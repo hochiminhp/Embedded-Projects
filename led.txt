@@ -5,3 +5,5 @@ this is geetha
 
 //send code for togglepin
 
+HAL_GPIO_TogglePin(GPIOB,GPIO_PIN_4,1);
+
