@@ -1,1 +1,3 @@
 NVIC enabled
+
+pb12 interrupt pin enabled
